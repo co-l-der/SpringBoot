@@ -1,1 +1,4 @@
 git命令练习
+git命令练习，在提交时修改用户名 
+查看当前Git用户： git config user.name
+修改当前Git用户： git config user.name "当前用户名"
